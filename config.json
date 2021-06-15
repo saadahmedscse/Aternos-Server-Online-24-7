@@ -1,6 +1,6 @@
 {
 	"ip":"eenigmaa.aternos.me",
-	"port": "25565",
+	"port": "48622",
 	"name": "Blazed Enigma",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
